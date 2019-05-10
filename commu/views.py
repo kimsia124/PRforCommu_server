@@ -1,3 +1,3 @@
-from django.shortcuts import render
+# commu/views.py
 
-# Create your views here.
+from django.shortcuts import render
